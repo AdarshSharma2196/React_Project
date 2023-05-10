@@ -40,6 +40,7 @@ const App = () => {
   //   ),
   //   React.createElement(Expenses, { items: expenses })
   // );
+  // this is the comment 
   return (
     <div>
       <NewExpense onAddExpense={addExpenseHandler} />
